@@ -1,4 +1,3 @@
-# Snake-Game
 # Snake Game 🐍
 
 A classic Snake Game built using Python and the Pygame library. Control the snake to eat food and grow longer, but avoid colliding with the walls or yourself!
